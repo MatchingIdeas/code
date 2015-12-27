@@ -1,3 +1,6 @@
 # code
 
-Repo synchronisé avec Slack 
+Repo code, slack channel github
+
+Slack 
+add wunderlist channel 
