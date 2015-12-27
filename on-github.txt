@@ -4,3 +4,7 @@ rangement de fichiers
 versionnage de documents et code
 	importance du versionnage pour certains projets
 	compétences assemblables
+
+branches Github
+	par channels
+	par DIFFERENTS PROJETS SLACKs
